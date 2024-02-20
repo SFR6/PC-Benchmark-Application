@@ -1,0 +1,10 @@
+I implmented the following algorithms:
+
+-> Disk - Sequential Access
+-> Disk - Random Access
+
+-> Network (Download Speed)
+
+
+-> Performed the Tests
+-> Finished the Documentation

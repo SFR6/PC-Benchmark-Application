@@ -1,0 +1,26 @@
+I implmented the following algorithms:
+
+-> Algorithm for Getting Hardware and Software Information
+
+-> CPU - String - Lower Case To Upper Case Transformation Algorithm
+-> CPU - String - Vowel Elimination Algorithm
+-> CPU - String - Text Splitting Into Words Algorithm
+-> CPU - String - Data Encryption/Decryption Algorithm
+
+-> GPU - Particle System Generation Algorithm
+
+-> Memory - Allocation using malloc()
+-> Memory - Allocation using calloc()
+-> Memory - Allocation using realloc()
+-> Memory - Allocation using a custom memory pool
+
+
+
+
+-> Main Controller
+-> Benchmark Progress Controller
+-> Log File Controller
+
+-> Main View
+-> Benchmark Progress View (does not work as intended)
+-> Log File View

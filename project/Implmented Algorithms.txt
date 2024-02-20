@@ -1,0 +1,18 @@
+I implmented the following algorithms:
+
+-> CPU - Integer - Factorial Number Computation Algorithm
+-> CPU - Integer - Fibonacci Numbers Generator Algorithm
+-> CPU - Integer - BubbleSort Sorting Algorithm
+-> CPU - Integer - Prime Numbers Generation Algorithm
+
+-> CPU - Floating Point - LU Decomposition Algorithm
+-> CPU - Floating Point - Arctangent Angle Computation Algorithm
+-> CPU - Floating Point - Euler Number Computation Algorithm
+-> CPU - Floating Point - PI Decimals Computation Algorithm
+
+
+-> GPU - Cube Rotation Renderer
+-> GPU - Sphere Scaling Renderer
+-> GPU - Torus Lighting Renderer
+-> GPU - Cylinder Translation Renderer
+-> GPU - Pyramid All Transformations Renderer
